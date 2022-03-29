@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 0C8A-8CF0
-
- Directory of C:\Git Email
-
-03/29/2022  04:10 PM    <DIR>          .
-03/29/2022  04:10 PM    <DIR>          ..
-03/29/2022  04:10 PM                 0 email.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  90,797,178,880 bytes free
+Email alert
